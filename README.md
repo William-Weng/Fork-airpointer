@@ -29,7 +29,9 @@
 | Item | Status |
 |---|---|
 | AirPods Pro 3, macOS 26, Apple Silicon | Tested on one Mac with one pair |
+| AirPods 4 with ANC | Tested on one Mac with one pair |
 | AirPods Pro 2 | Recognized, not tested |
+| AirPods 4 | Recognized, not tested |
 | AirPods paired with your Mac | Required |
 | Xcode | Required to build |
 
